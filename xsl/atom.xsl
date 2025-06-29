@@ -972,7 +972,7 @@
             <div class="header-top">
               <div class="header-avatar">
                 <!-- 使用本地SVG头像 -->
-                <svg width="48" height="48" viewBox="0 0 40 40">
+                <svg width="40" height="40" viewBox="0 0 40 40">
                   <image href="/svg/rss-avatar.svg" width="40" height="40" preserveAspectRatio="xMidYMid meet" />
                 </svg>
               </div>
@@ -985,7 +985,7 @@
               Roxy_Magicの咖啡馆，提供建站教程、学习笔记分享、生活点滴，个人经验，融合技术开发与人文思考，定期更新深度指南与创意灵感，给大家提供更多帮助。
             </div>
             <div class="header-description-en">
-              MortalCat’s Blog, Sharing tutorials, coding notes, life moments, personal experiences, blending tech and humanities, with regularly updated guides and creative inspiration.
+              Roxy_Magic’s Blog, Sharing tutorials, coding notes, life moments, personal experiences, blending tech and humanities, with regularly updated guides and creative inspiration.
             </div>
             
             <div class="header-subscribe">
