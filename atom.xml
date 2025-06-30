@@ -6,7 +6,7 @@
   <link href="http://blog.230721.xyz/atom.xml" rel="self"/>
   
   <link href="http://blog.230721.xyz/"/>
-  <updated>2025-06-30T05:42:39.847Z</updated>
+  <updated>2025-06-30T09:48:37.946Z</updated>
   <id>http://blog.230721.xyz/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>改主菜单开往为萌站异世界之旅-跃迁</title>
+    <link href="http://blog.230721.xyz/posts/fad0/"/>
+    <id>http://blog.230721.xyz/posts/fad0/</id>
+    <published>2025-06-30T16:47:24.000Z</published>
+    <updated>2025-06-30T09:48:37.946Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;note info no-icon flat&quot;&gt;&lt;p&gt;起</summary>
+      
+    
+    
+    
+    <category term="教程" scheme="http://blog.230721.xyz/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="anzhiyu" scheme="http://blog.230721.xyz/categories/%E6%95%99%E7%A8%8B/anzhiyu/"/>
+    
+    
+    <category term="教程" scheme="http://blog.230721.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="anzhiyu" scheme="http://blog.230721.xyz/tags/anzhiyu/"/>
+    
+    <category term="魔改" scheme="http://blog.230721.xyz/tags/%E9%AD%94%E6%94%B9/"/>
+    
+  </entry>
+  
+  <entry>
     <title>安知鱼主题美化教程</title>
     <link href="http://blog.230721.xyz/posts/b26f/"/>
     <id>http://blog.230721.xyz/posts/b26f/</id>
     <published>2025-06-30T11:09:32.000Z</published>
-    <updated>2025-06-30T05:42:39.847Z</updated>
+    <updated>2025-06-30T09:48:37.946Z</updated>
     
     
       
@@ -38,13 +66,13 @@
     <category term="anzhiyu" scheme="http://blog.230721.xyz/categories/Hexo/%E6%95%99%E7%A8%8B/anzhiyu/"/>
     
     
-    <category term="Hexo" scheme="http://blog.230721.xyz/tags/Hexo/"/>
-    
     <category term="教程" scheme="http://blog.230721.xyz/tags/%E6%95%99%E7%A8%8B/"/>
     
     <category term="anzhiyu" scheme="http://blog.230721.xyz/tags/anzhiyu/"/>
     
     <category term="魔改" scheme="http://blog.230721.xyz/tags/%E9%AD%94%E6%94%B9/"/>
+    
+    <category term="Hexo" scheme="http://blog.230721.xyz/tags/Hexo/"/>
     
   </entry>
   
@@ -53,7 +81,7 @@
     <link href="http://blog.230721.xyz/posts/d839/"/>
     <id>http://blog.230721.xyz/posts/d839/</id>
     <published>2025-06-21T14:49:32.000Z</published>
-    <updated>2025-06-30T05:42:39.847Z</updated>
+    <updated>2025-06-30T09:48:37.946Z</updated>
     
     
       
@@ -66,9 +94,9 @@
     <category term="Hexo" scheme="http://blog.230721.xyz/categories/Hexo/"/>
     
     
-    <category term="Hexo" scheme="http://blog.230721.xyz/tags/Hexo/"/>
-    
     <category term="教程" scheme="http://blog.230721.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Hexo" scheme="http://blog.230721.xyz/tags/Hexo/"/>
     
   </entry>
   
