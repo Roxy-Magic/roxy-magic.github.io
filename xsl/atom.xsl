@@ -42,7 +42,7 @@
 <div class="footer">
 <div class="footer-line">
 <span>© 2025</span>
-<span><a href="https://blog.230721.xyz." target="_blank">Roxy_Magicの咖啡馆</a></span>
+<span><a href="https://blog.roxymagic.top." target="_blank">Roxy_Magicの咖啡馆</a></span>
 </div>
 </div>
 </div>
