@@ -6,7 +6,7 @@
   <link href="http://blog.roxymagic.top/atom.xml" rel="self"/>
   
   <link href="http://blog.roxymagic.top/"/>
-  <updated>2025-10-03T08:43:28.899Z</updated>
+  <updated>2025-10-03T10:23:02.266Z</updated>
   <id>http://blog.roxymagic.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://blog.roxymagic.top/posts/ac30/"/>
     <id>http://blog.roxymagic.top/posts/ac30/</id>
     <published>2025-07-31T22:46:19.000Z</published>
-    <updated>2025-10-03T08:43:28.899Z</updated>
+    <updated>2025-10-03T10:23:02.266Z</updated>
     
     
       
@@ -31,9 +31,7 @@
     
     
     
-    <category term="教程" scheme="http://blog.roxymagic.top/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Minecraft" scheme="http://blog.roxymagic.top/categories/%E6%95%99%E7%A8%8B/Minecraft/"/>
+    <category term="教程笔记" scheme="http://blog.roxymagic.top/categories/%E6%95%99%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
     
     
     <category term="教程" scheme="http://blog.roxymagic.top/tags/%E6%95%99%E7%A8%8B/"/>
@@ -47,7 +45,7 @@
     <link href="http://blog.roxymagic.top/posts/62c6/"/>
     <id>http://blog.roxymagic.top/posts/62c6/</id>
     <published>2025-07-04T03:47:24.000Z</published>
-    <updated>2025-10-03T08:43:28.899Z</updated>
+    <updated>2025-10-03T10:23:02.266Z</updated>
     
     
       
@@ -57,9 +55,7 @@
     
     
     
-    <category term="教程" scheme="http://blog.roxymagic.top/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="anzhiyu" scheme="http://blog.roxymagic.top/categories/%E6%95%99%E7%A8%8B/anzhiyu/"/>
+    <category term="教程笔记" scheme="http://blog.roxymagic.top/categories/%E6%95%99%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
     
     
     <category term="教程" scheme="http://blog.roxymagic.top/tags/%E6%95%99%E7%A8%8B/"/>
@@ -75,7 +71,7 @@
     <link href="http://blog.roxymagic.top/posts/fad0/"/>
     <id>http://blog.roxymagic.top/posts/fad0/</id>
     <published>2025-06-30T16:47:24.000Z</published>
-    <updated>2025-10-03T08:43:28.899Z</updated>
+    <updated>2025-10-03T10:23:02.266Z</updated>
     
     
       
@@ -85,9 +81,7 @@
     
     
     
-    <category term="教程" scheme="http://blog.roxymagic.top/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="anzhiyu" scheme="http://blog.roxymagic.top/categories/%E6%95%99%E7%A8%8B/anzhiyu/"/>
+    <category term="教程笔记" scheme="http://blog.roxymagic.top/categories/%E6%95%99%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
     
     
     <category term="教程" scheme="http://blog.roxymagic.top/tags/%E6%95%99%E7%A8%8B/"/>
@@ -103,7 +97,7 @@
     <link href="http://blog.roxymagic.top/posts/b26f/"/>
     <id>http://blog.roxymagic.top/posts/b26f/</id>
     <published>2025-06-30T11:09:32.000Z</published>
-    <updated>2025-10-03T08:43:28.899Z</updated>
+    <updated>2025-10-03T10:23:02.266Z</updated>
     
     
       
@@ -113,11 +107,7 @@
     
     
     
-    <category term="Hexo" scheme="http://blog.roxymagic.top/categories/Hexo/"/>
-    
-    <category term="教程" scheme="http://blog.roxymagic.top/categories/Hexo/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="anzhiyu" scheme="http://blog.roxymagic.top/categories/Hexo/%E6%95%99%E7%A8%8B/anzhiyu/"/>
+    <category term="教程笔记" scheme="http://blog.roxymagic.top/categories/%E6%95%99%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
     
     
     <category term="教程" scheme="http://blog.roxymagic.top/tags/%E6%95%99%E7%A8%8B/"/>
@@ -135,7 +125,7 @@
     <link href="http://blog.roxymagic.top/posts/d839/"/>
     <id>http://blog.roxymagic.top/posts/d839/</id>
     <published>2025-06-21T14:49:32.000Z</published>
-    <updated>2025-10-03T08:43:28.899Z</updated>
+    <updated>2025-10-03T10:23:02.266Z</updated>
     
     
       
@@ -145,7 +135,7 @@
     
     
     
-    <category term="Hexo" scheme="http://blog.roxymagic.top/categories/Hexo/"/>
+    <category term="教程笔记" scheme="http://blog.roxymagic.top/categories/%E6%95%99%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
     
     
     <category term="教程" scheme="http://blog.roxymagic.top/tags/%E6%95%99%E7%A8%8B/"/>
